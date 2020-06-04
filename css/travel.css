@@ -1,0 +1,57 @@
+/****CSS RESET****/
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+#brand {
+    color: teal;
+
+    font-size: 2rem;
+}
+
+/**Nav***/
+
+.nav-link{
+ color: white;
+}
+
+.para-style {
+    border: 2px solid white;
+    display: inline;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    cursor: pointer;
+
+}
+
+.para-style:hover {
+    color: teal;
+}
+
+.param{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+/******Description*******/
+#DescriptionHeading {
+    margin: 1rem;
+    padding: 3rem;
+}
+
+.items {
+    padding: 3rem;
+}
+
+
+.container-fluid h2 {
+    font-size: 2rem;
+}
+
+.container-fluid p {
+    font-size: 1rem;
+}
